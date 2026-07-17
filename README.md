@@ -25,8 +25,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Seaborn
 * SciPy
 
-
-
 ## 📊 Dataset Features
 
 | Feature     | Description                       |
@@ -43,8 +41,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 | Fare        | Ticket Fare                       |
 | Cabin       | Cabin Number                      |
 | Embarked    | Port of Embarkation               |
-
-
 
 ## 🔍 Exploratory Data Analysis
 
@@ -81,7 +77,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Spearman Correlation
 
 
-
 ## 📈 Key Findings
 
 * Female passengers had a higher survival rate than male passengers.
@@ -89,7 +84,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Age influenced survival probability.
 * Fare showed a positive relationship with survival.
 * Several outliers were detected in the Fare column.
-
 
 
 ## ✅ Hypotheses Tested
@@ -101,7 +95,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 ### H2: Age impacted passenger survival.
 
 **Result:** Confirmed ✅
-
 
 
 ## 💡 Recommendations
@@ -123,12 +116,10 @@ Titanic-EDA-Project/
 └── requirements.txt
 ```
 
-
 ## OUTPUT
 <img width="1456" height="695" alt="Screenshot 2026-06-17 152420" src="https://github.com/user-attachments/assets/0b4fbb59-771b-4280-b1cd-beed273938a0" />
 <img width="1368" height="713" alt="Screenshot 2026-06-17 152354" src="https://github.com/user-attachments/assets/c10e67a7-b1ff-4feb-8b25-97829f6cb945" />
 <img width="1270" height="743" alt="Screenshot 2026-06-17 152324" src="https://github.com/user-attachments/assets/aa45c5b3-0774-48ac-b20c-91676465e9df" />
-
 
 ## 👩‍💻 Author
 
