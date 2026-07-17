@@ -76,7 +76,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Pearson Correlation
 * Spearman Correlation
 
-
 ## 📈 Key Findings
 
 * Female passengers had a higher survival rate than male passengers.
@@ -84,7 +83,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Age influenced survival probability.
 * Fare showed a positive relationship with survival.
 * Several outliers were detected in the Fare column.
-
 
 ## ✅ Hypotheses Tested
 
