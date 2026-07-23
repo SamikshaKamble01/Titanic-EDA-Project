@@ -42,13 +42,11 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 ## 🔍 Exploratory Data Analysis
 
 ### Data Inspection
-
 * Dataset Shape
 * Data Types
 * Missing Values Analysis
 
 ### Statistical Analysis
-
 * Mean
 * Median
 * Standard Deviation
@@ -56,7 +54,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Kurtosis
 
 ### Data Visualization
-
 * Histogram
 * Count Plot
 * Box Plot
@@ -68,7 +65,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic Dataset usi
 * Interquartile Range (IQR) Method
 
 ### Correlation Analysis
-
 * Pearson Correlation
 * Spearman Correlation
 
